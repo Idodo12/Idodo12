@@ -1,7 +1,4 @@
 # 👋 Hi, I’m @Idodo12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on anything intersting
 
 # 📊 Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idodo12&show_icons=true&theme=radical)
